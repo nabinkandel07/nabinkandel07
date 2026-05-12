@@ -1,5 +1,5 @@
 # 🚀 Welcome to My GitHub Profile!
-Hi there! I'm NABIN KANDEL, a control Engineer, AI enthusiast, and cloud practitioner. As a student of Zhejiang Sci-Tec University, China, Hardworking and able to work in a collaborative environment to nurture and sharpen the skills and Knowledge, energetic and quick learner for any task. My current research interests include multivariate statistical analysis, deep learning, Machine Vision, and fault diagnosis..
+Hi there! I'm NABIN KANDEL, a control Engineer, AI enthusiast, and cloud practitioner. As a student of Zhejiang Sci-Tec University, China, Hardworking and able to work in a collaborative environment to nurture and sharpen the skills and Knowledge, energetic and quick learner for any task. My current research interests include multivariate statistical analysis, deep learning, Machine Vision, and fault diagnosis.
 
 ## 🛠️ Tech Stack
 ### 🔹 Programming & Core Concepts
